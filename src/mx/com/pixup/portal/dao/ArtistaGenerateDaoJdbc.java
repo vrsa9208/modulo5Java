@@ -77,7 +77,7 @@ public class ArtistaGenerateDaoJdbc {
                 artista.addContent(nombre_artistico);
                 
                 Element descripcion = new Element("descripcion");
-                nombre_artistico.setText(resultSet.getString("descripcion"));
+                descripcion.setText(resultSet.getString("descripcion"));
                 artista.addContent(descripcion);
                 
                 artistas.addContent(artista);

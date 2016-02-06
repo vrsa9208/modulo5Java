@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <artistas>
   <artista id="1001">
-    <nombre_artistico>Catante, autor y compositor</nombre_artistico>
-    <descripcion />
+    <nombre_artistico>Juan Gabriel</nombre_artistico>
+    <descripcion>Catante, autor y compositor</descripcion>
   </artista>
   <artista id="1002">
-    <nombre_artistico>Vocalista de Café Tacuba</nombre_artistico>
-    <descripcion />
+    <nombre_artistico>Rita</nombre_artistico>
+    <descripcion>Vocalista de Café Tacuba</descripcion>
   </artista>
   <artista id="1003">
-    <nombre_artistico>Dos carnalitas</nombre_artistico>
-    <descripcion />
+    <nombre_artistico>Haash</nombre_artistico>
+    <descripcion>Dos carnalitas</descripcion>
   </artista>
   <artista id="1004">
-    <nombre_artistico>Rockero</nombre_artistico>
-    <descripcion />
+    <nombre_artistico>Enrique Bunbury</nombre_artistico>
+    <descripcion>Rockero</descripcion>
   </artista>
   <artista id="1005">
-    <nombre_artistico>Vocalista de The Beatles</nombre_artistico>
-    <descripcion />
+    <nombre_artistico>Paul MacCartney</nombre_artistico>
+    <descripcion>Vocalista de The Beatles</descripcion>
   </artista>
   <artista id="1006">
-    <nombre_artistico>????</nombre_artistico>
-    <descripcion />
+    <nombre_artistico>Pedro Piedra</nombre_artistico>
+    <descripcion>????</descripcion>
   </artista>
 </artistas>
