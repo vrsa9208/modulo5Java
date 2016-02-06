@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<estados>
+    <estado>
+        <id>1</id>
+        <nombre>Distrito Federal</nombre>
+        <municipios>
+            <!-- las FK preferentemente no incluirlas al XML
+            por ejemplo el id_estado porque es redundancia 
+            con la PK incluida previamente-->
+            <municipio id="1">Azcapotzalco</municipio>
+            <municipio id="2">Cuajimalpa</municipio>
+            <municipio id="3">Benito Juárez</municipio>
+        </municipios>
+    </estado>
+    <estado>
+        <id>2</id>
+        <nombre>Jalisco</nombre>
+        <municipios>
+            <municipio id="78">Tequila</municipio>
+            <municipio id="79">Arandas</municipio>
+            <municipio id="80">Zapopan</municipio>
+            <municipio id="81">Guadalajara</municipio>
+        </municipios>
+    </estado>
+    <estado>
+        <id>3</id>
+        <nombre>Nuevo León</nombre>
+        <municipios>
+            <municipio id="714">Apodaca</municipio>
+            <municipio id="715">Monterrey</municipio>
+            <municipio id="716">Guadalupe</municipio>
+            <municipio id="717">San Nicolás</municipio>
+        </municipios>
+    </estado>
+</estados>

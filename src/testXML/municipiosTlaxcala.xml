@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<estado id="20">
+    <nombre>Tlaxcala</nombre>
+    <municipios>
+        <municipio id="101">Huamantla</municipio>
+        <municipio id="102">Nativitas</municipio>
+        <municipio id="103">Tenancingo</municipio>
+        <municipio id="104">Totolac</municipio>
+        <municipio id="105">Tetla</municipio>
+    </municipios>
+</estado>

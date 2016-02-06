@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<usuarios>
+    <usuario id="1">
+        <nombre>Víctor Orlando</nombre>
+        <apellido-paterno>Santiago</apellido-paterno>
+        <apellido-materno>Sánchez</apellido-materno>
+        <fecha-nacimiento>1992-08-31</fecha-nacimiento>
+        <email>vrsa9208@gmail.com</email>
+        <password>827ccb0eea8a706c4c34a16891f84e7b</password>
+        <genero>masculino</genero>
+        <numero-telefonico>5534617250</numero-telefonico>
+        <direcciones>
+            <direccion id="1">
+                <colonia>Rio Blanco</colonia>
+                <tipo-direccion>Casa</tipo-direccion>
+                <calle>Oriente 23</calle>
+                <numero-interior>23</numero-interior>
+                <numero-exterior>23</numero-exterior>
+            </direccion>
+        </direcciones>
+    </usuario>
+</usuarios>

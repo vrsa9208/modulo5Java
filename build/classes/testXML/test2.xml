@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Almacenar libros
+-->
+
+<libros>
+    <libro>
+        <id>1</id>
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <editorial>Salamandra</editorial>
+        <isbn>3421-2323</isbn>
+        <edicion>1</edicion>
+        <clasificacion>QCA.34</clasificacion>
+        <autor>
+            <primerApellido>Rowling</primerApellido>
+            <nombre>J. K.</nombre>
+        </autor>
+        <informacionAdicional>
+            <paginas>250</paginas>
+            <pasta>dura</pasta>
+            <anio>2001</anio>
+        </informacionAdicional>
+    </libro>
+    
+    <libro>
+        <id>2</id>
+        <titulo>Matemáticas 2</titulo>
+        <editorial>Porrua</editorial>
+        <isbn>1545-232</isbn>
+        <edicion>5</edicion>
+        <clasificacion>HT.56</clasificacion>
+        <autor>
+            <primerApellido>López</primerApellido>
+            <segundoApellido>Gomez</segundoApellido>
+            <nombre>Ignacio</nombre>
+        </autor>
+        <autor>
+            <primerApellido>Jiménez</primerApellido>
+            <segundoApellido>Huerta</segundoApellido>
+            <nombre>Josefina</nombre>
+        </autor>
+        <informacionAdicional>
+            <paginas>560</paginas>
+            <pasta>suave</pasta>
+            <anio>2012</anio>
+        </informacionAdicional>
+    </libro>
+</libros>

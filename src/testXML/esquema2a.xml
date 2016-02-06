@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<diplomado
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='esquema2.xsd'
+    generacion="6"
+    nombre="Nombre del diplomado">
+    <modulos>
+        <modulo></modulo>
+        <modulo></modulo>
+        <modulo></modulo>
+    </modulos>
+    <fechaInicio>2015-09-04</fechaInicio>
+    <fechaFin>2016-03-12</fechaFin>
+    <instructores>
+        <instructor sexo="masculino">
+            <nombre></nombre>
+            <primerApellido></primerApellido>
+            <segundoApellido></segundoApellido>
+            <noCuenta></noCuenta>
+        </instructor>
+        <instructor sexo="femenino">
+            <nombre></nombre>
+            <primerApellido></primerApellido>
+            <!--<segundoApellido></segundoApellido>-->
+            <cheque>true</cheque>
+        </instructor>
+        <instructor sexo="masculino">
+            <nombre></nombre>
+            <primerApellido></primerApellido>
+            <segundoApellido></segundoApellido>
+            <efectivo>true</efectivo>
+        </instructor>
+    </instructores>
+
+</diplomado>

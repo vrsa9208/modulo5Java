@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    
+    <!--Este es el nodo raiz-->
+    <xs:element name="persona">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="nombre" type="xs:string" />
+                <xs:element name="primer-apellido" type="xs:string" />
+                <xs:element name="fecha-nacimiento" type="xs:date" />
+                <xs:element name="id" type="xs:integer" />
+                <xs:element name="multa" type="xs:float" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<animales>
+    <animal>
+        <nombre>Kimba</nombre>
+        <especie>León</especie>
+        <paisOrigen>Zambia</paisOrigen>
+        <familia>Felinus</familia>
+        <habitats>
+            <habitat>Sabana</habitat>
+            <habitat>Selva</habitat>
+        </habitats>
+        <informacionMedica>
+            <notas>
+                <nota fecha="2016-01-29">Moquillo</nota>
+                <nota fecha="2016-01-27">Infección</nota>
+            </notas>
+            <tratamiento>
+                <medicamento fecha="2016-01-30">
+                    Antiexpectorante
+                </medicamento>
+                <medicamento fecha="2016-01-30">
+                    Antibiótico
+                </medicamento>
+            </tratamiento>
+        </informacionMedica>
+    </animal>
+    <animal>
+        <!--Solo se coloca como referencia-->
+    </animal>
+</animales>

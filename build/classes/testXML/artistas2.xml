@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<artistas>
+    <artista id="1004">
+        <nombre>Enrique Bunbury</nombre>
+        <descripcion>Rockero</descripcion>
+    </artista>
+    <artista id="1005">
+        <nombre>Paul MacCartney</nombre>
+        <descripcion>Vocalista de The Beatles</descripcion>
+    </artista>
+    <artista id="1006">
+        <nombre>Pedro Piedra</nombre>
+        <descripcion>????</descripcion>
+    </artista>
+</artistas>

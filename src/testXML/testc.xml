@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<libros>
+    <libro id="1" edicion="1" clasificacion="QC.12">
+        <titulo>Matemáticas 2</titulo>
+        <editorial>Porrua</editorial>
+        <autores>
+            <autor>
+                <primerApellido>Rowling</primerApellido>
+                <nombre>J. K.</nombre>
+            </autor>
+        </autores>
+        <informacionAdicional paginas="250" pasta="dura" anio="2001" />
+    </libro>
+</libros>

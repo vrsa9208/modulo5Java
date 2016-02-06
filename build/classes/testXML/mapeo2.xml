@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<estado id="1">
+    <!-- <municipio></municipio>
+         <municipio></municipio> -->
+    <nombre>Distrito Federal</nombre>
+    <municipios>
+        <municipio>
+            <id>1</id>
+            <nombre>Azcapotzalco</nombre>
+            <colonias>
+                <colonia id="101">
+                    <nombre>Bondojito</nombre>
+                    <codigoPostal>06564</codigoPostal>
+                </colonia>
+                <colonia id="102">
+                    <nombre>Heroes de Padierna</nombre>
+                    <codigoPostal>56221</codigoPostal>
+                </colonia>
+            </colonias>
+        </municipio>
+    </municipios>
+</estado>

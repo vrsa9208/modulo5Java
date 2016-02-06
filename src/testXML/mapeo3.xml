@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<discos>
+    <disco id="1">
+        <titulo>Tributo a los Angeles Azules</titulo>
+        <fechaLanzamiento>2015-02-06</fechaLanzamiento>
+        <canciones>
+            <cancion id="1" duracion="00:03:04" idControl="101">El listón de tu pelo</cancion>
+            <cancion id="2" duracion="00:04:15" idControl="102">17 años</cancion>
+        </canciones>
+    </disco>
+    <disco id="78">
+        <titulo>Grandes Hits Angeles Azules</titulo>
+        <fechaLanzamiento>2015-08-23</fechaLanzamiento>
+        <canciones>
+            <cancion id="2" duracion="00:04:15" idControl="208">17 años</cancion>
+        </canciones>
+    </disco>
+</discos>

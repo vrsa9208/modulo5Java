@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Ejemplo de vehiculo.
+-->
+
+<vehiculo puertas="2">
+    <marca>Volkswagen</marca>
+    <modelo>sport</modelo>
+    <anio>2016</anio>
+    <color>azul</color>
+    <precio>120000</precio>
+</vehiculo>

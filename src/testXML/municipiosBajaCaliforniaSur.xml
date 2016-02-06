@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<estado id="30">
+    <nombre>Baja California Sur</nombre>
+    <municipios>
+        <municipio id="71">La Paz</municipio>
+        <municipio id="72">Los Cabos</municipio>
+        <municipio id="73">Loreto</municipio>
+        <municipio id="74">Mulegé</municipio>
+        
+    </municipios>
+</estado>

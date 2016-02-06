@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<artistas>
+    <artista id="1001">
+        <nombre>Juan Gabriel</nombre>
+        <descripcion>Catante, autor y compositor</descripcion>
+    </artista>
+    <artista id="1002">
+        <nombre>Rita</nombre>
+        <descripcion>Vocalista de Café Tacuba</descripcion>
+    </artista>
+    <artista id="1003">
+        <nombre>Haash</nombre>
+        <descripcion>Dos carnalitas</descripcion>
+    </artista>
+</artistas>

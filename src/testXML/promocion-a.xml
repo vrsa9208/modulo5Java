@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<promocion
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='promosion.xsd'
+    id="2">
+    <fecha-inicio>2016-07-08</fecha-inicio>
+    <fecha-fin>2016-07-09</fecha-fin>
+    <nombre>Julio Regalado</nombre>
+    <porcentaje-descuento>23.51</porcentaje-descuento>
+    <vigente>1</vigente>
+
+</promocion>
