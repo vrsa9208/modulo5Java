@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discos>
+  <disco idioma="1" disquera="1">
+    <pais id="2">Japón</pais>
+    <titulo>XXX</titulo>
+  </disco>
+  <disco idioma="1" disquera="2">
+    <pais id="1">México</pais>
+    <titulo>YYY</titulo>
+  </disco>
+  <disco idioma="2" disquera="2">
+    <pais id="1">México</pais>
+    <titulo>ZZZ</titulo>
+  </disco>
+  <disco idioma="3" disquera="1">
+    <pais id="3">Canada</pais>
+    <titulo>VVV</titulo>
+  </disco>
+</discos>
