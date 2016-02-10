@@ -3,16 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/testXML/municipio1.xml</file>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/mx/com/pixup/portal/demo/DemoEstadoMunicipioParserXML.java</file>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/testXML/municipiosTlaxcala.xml</file>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/testXML/artistasNuevo.xml</file>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/mx/com/pixup/portal/demo/DemoArtistasGenerateXML.java</file>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/testXML/municipiosBajaCaliforniaSur.xml</file>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/mx/com/pixup/portal/dao/EstadoMunicipioParserDaoJdbc.java</file>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/mx/com/pixup/portal/dao/ArtistaGenerateDaoJdbc.java</file>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/mx/com/pixup/portal/dao/MunicipioGenerateDaoJdbc.java</file>
-            <file>file:/C:/Users/JAVA-08/Documents/VOSS/Modulo%205/pixup-dao-xml/src/mx/com/pixup/portal/demo/DemoMunicipioGenerateXML.java</file>
+            <file>file:/C:/Users/vrsa9208/Documents/NetBeansProjects/Diplomado-Modulo-5/modulo5Java/src/mx/com/pixup/portal/dao/DiscoParserDaoJdbc.java</file>
+            <file>file:/C:/Users/vrsa9208/Documents/NetBeansProjects/Diplomado-Modulo-5/modulo5Java/src/mx/com/pixup/portal/demo/DemoDiscoParser.java</file>
+            <file>file:/C:/Users/vrsa9208/Documents/NetBeansProjects/Diplomado-Modulo-5/modulo5Java/src/mx/com/pixup/portal/dao/ArtistaParserDaoJdbc.java</file>
         </group>
     </open-files>
 </project-private>
